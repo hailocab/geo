@@ -19,7 +19,7 @@ package s2
 import (
 	"math"
 
-	"github.com/golang/geo/r3"
+	"github.com/hailocab/geo/r3"
 )
 
 const (

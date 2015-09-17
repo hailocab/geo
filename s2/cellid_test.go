@@ -20,8 +20,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/golang/geo/r2"
-	"github.com/golang/geo/s1"
+	"github.com/hailocab/geo/r2"
+	"github.com/hailocab/geo/s1"
 )
 
 func TestCellIDFromFace(t *testing.T) {

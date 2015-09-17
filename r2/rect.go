@@ -19,7 +19,7 @@ package r2
 import (
 	"fmt"
 
-	"github.com/golang/geo/r1"
+	"github.com/hailocab/geo/r1"
 )
 
 // Point represents a point in ℝ².

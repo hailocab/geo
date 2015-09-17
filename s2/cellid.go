@@ -23,9 +23,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/golang/geo/r1"
-	"github.com/golang/geo/r2"
-	"github.com/golang/geo/r3"
+	"github.com/hailocab/geo/r1"
+	"github.com/hailocab/geo/r2"
+	"github.com/hailocab/geo/r3"
 )
 
 // CellID uniquely identifies a cell in the S2 cell decomposition.

@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/golang/geo/s1"
+	"github.com/hailocab/geo/s1"
 )
 
 // LatLng represents a point on the unit sphere as a pair of angles.

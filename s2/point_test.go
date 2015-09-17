@@ -20,7 +20,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/golang/geo/r3"
+	"github.com/hailocab/geo/r3"
 )
 
 func float64Near(x, y, ε float64) bool {

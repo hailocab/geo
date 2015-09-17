@@ -19,7 +19,7 @@ package s2
 import (
 	"fmt"
 
-	"github.com/golang/geo/s1"
+	"github.com/hailocab/geo/s1"
 )
 
 /**

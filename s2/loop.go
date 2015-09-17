@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/golang/geo/r1"
-	"github.com/golang/geo/s1"
+	"github.com/hailocab/geo/r1"
+	"github.com/hailocab/geo/s1"
 )
 
 /**

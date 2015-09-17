@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/golang/geo/s1"
+	"github.com/hailocab/geo/s1"
 )
 
 // Vector represents a point in ℝ³.

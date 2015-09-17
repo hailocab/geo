@@ -3,7 +3,7 @@ package s2
 import (
 	"math"
 
-	"github.com/golang/geo/r2"
+	"github.com/hailocab/geo/r2"
 )
 
 const EPSILON float64 = 1e-14

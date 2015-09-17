@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/golang/geo/r3"
-	"github.com/golang/geo/s1"
+	"github.com/hailocab/geo/r3"
+	"github.com/hailocab/geo/s1"
 )
 
 // Direction is an indication of the ordering of a set of points

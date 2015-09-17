@@ -19,9 +19,9 @@ package s2
 import (
 	"math"
 
-	"github.com/golang/geo/r1"
-	"github.com/golang/geo/r2"
-	"github.com/golang/geo/s1"
+	"github.com/hailocab/geo/r1"
+	"github.com/hailocab/geo/r2"
+	"github.com/hailocab/geo/s1"
 )
 
 // Cell is an S2 region object that represents a cell. Unlike CellIDs,
